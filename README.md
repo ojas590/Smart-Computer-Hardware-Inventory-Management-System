@@ -86,12 +86,6 @@ Additional deliverables, including the ER diagram, relational schema, SQL query 
 
 This project is developed for academic learning as part of a Database Management Systems laboratory mini project. It demonstrates the practical application of relational database design and SQL using a computer hardware inventory scenario.
 
-## Author
-
-**Ojas Vinod Hiwarkar**
-
-Information Technology
-
 ## License
 
 This project is intended for educational and academic purposes.
